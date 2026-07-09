@@ -15,4 +15,4 @@ To play the game on your computer:
 1. Download or clone the project files.
 2. Run the main file in your terminal:
    ```bash
-   python main.py
+   python quiz.py
